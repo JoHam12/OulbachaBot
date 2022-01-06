@@ -1,0 +1,25 @@
+{
+  "name": "oulbacha",
+  "version": "1.0.0",
+  "description": "Medical infos helper oulbacha ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "oulbachabot"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "MACbeth_23",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "events": "^3.3.0",
+    "wikijs": "^6.3.3"
+  }
+}
